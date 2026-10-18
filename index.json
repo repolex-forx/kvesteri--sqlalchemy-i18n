@@ -1,0 +1,11 @@
+{
+  "org": "kvesteri",
+  "repo": "sqlalchemy-i18n",
+  "versions": [
+    {
+      "commit": "9cf515be75be6e319416579b32528e1a096c03cf",
+      "tag": "1.1.0",
+      "parsed_at": "2026-10-18T08:53:59.659840+00:00"
+    }
+  ]
+}

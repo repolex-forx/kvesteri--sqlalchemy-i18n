@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kvesteri/sqlalchemy-i18n/commit/9cf515be75be6e319416579b32528e1a096c03cf",
       "git:hexsha": "9cf515be75be6e319416579b32528e1a096c03cf",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.0"
     },
     {
